@@ -3,6 +3,7 @@
 These files are the whole website: the store customers see and the owner dashboard.
 They are plain HTML, CSS and JavaScript. There is nothing to build or install.
 
+
 | File | What it is |
 |---|---|
 | `index.html` | The store (welcome page, home, catalogue, sew with us, checkout, my orders, contact, legal pages, size guide). |
