@@ -4,7 +4,7 @@ window.WM_CONFIG = {
   // Testing on your own computer:   "http://localhost:4000"
   // Website and server on one host:  ""   (empty)
   // Live example:                    "https://api.yourdomain.com"
-  apiBase: "http://localhost:4000",
+  apiBase: "https://wear-me-admin-production.up.railway.app",
 
   // How often the pages check the server for new orders and changes, in seconds.
   pollSeconds: 5
